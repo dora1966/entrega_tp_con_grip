@@ -25,7 +25,7 @@ fetch(URL_API)
         <br>
         <h5 class="info-add"> Sex: ${character.gender} </h5>
         <br>
-        <h5 class="info-add"> Live in: ${character.location.name} </h5>
+        <h5 class="info-add"> Live: ${character.location.name} </h5>
         <br> 
         <h5 class="info-add"> Status: ${character.status}</h5>
         <br>
